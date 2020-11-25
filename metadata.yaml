@@ -1,5 +1,8 @@
 _repo: A-Key-Into-the-Language-of-America-or-an-Help-to-the-Language-of-the-Natives-in-That-Part-of-__63701
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63701-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, Roger
@@ -8,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52197
     wikipedia: https://en.wikipedia.org/wiki/Roger_Williams
 description: Preceded by a "Sketch of the life of Roger Williams."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63701#A-Key-Into-the-Language-of-America-or-an-Help-to-the-Language-of-the-Natives-in-That-Part-of-_
 gutenberg_issued: '2020-11-10'
 gutenberg_type: Text
 identifiers:
