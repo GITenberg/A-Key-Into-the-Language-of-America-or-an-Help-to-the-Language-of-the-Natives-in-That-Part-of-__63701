@@ -1,0 +1,30 @@
+_repo: A-Key-Into-the-Language-of-America-or-an-Help-to-the-Language-of-the-Natives-in-That-Part-of-__63701
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williams, Roger
+    deathdate: 1683
+    gutenberg_agent_id: '52197'
+    url: http://www.gutenberg.org/2009/agents/52197
+    wikipedia: https://en.wikipedia.org/wiki/Roger_Williams
+description: Preceded by a "Sketch of the life of Roger Williams."
+gutenberg_issued: '2020-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63701'
+  lccn: rc01002948
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Collections of the Rhode-Island Historical Society, Vol. 1
+subjects:
+- !lcc 'F001'
+- !lcsh 'Narragansett Indians'
+- !lcc 'E011'
+- !lcsh 'Narragansett language'
+- GITenberg
+title: "A Key Into the Language of America, or an Help to the Language of the Natives\
+  \ in That Part of America Called New-England\r\nTogether with Briefe Observations\
+  \ of the Customes, Manners, and Worships, &c. of the Aforesaid Natives, etc."
+url: http://www.gutenberg.org/ebooks/63701
